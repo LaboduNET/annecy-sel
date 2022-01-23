@@ -1,7 +1,7 @@
 ---
 items:
   - text: Menu One
-    url: "#"
+    url: "/posts/un-autre-post/"
   - text: Menu Two
     url: "#"
   - text: Menu Three
